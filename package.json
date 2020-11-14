@@ -1,0 +1,23 @@
+{
+  "name": "jasen-idyll-post",
+  "homepage" : "https://jasenlo123.github.io/testidyll",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "deploy" : "gh-pages -d build"
+  },
+  "idyll": {
+    "theme": "default",
+    "layout": "centered",
+    "css": "styles.css",
+    "authorView": false
+  },
+  "dependencies": {
+    "idyll": "^4.0.0",
+    "idyll-d3-component": "^2.0.0",
+    "d3": "^4.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
