@@ -4,7 +4,7 @@
   fullWidth:true
   title:"Evaluating the South China Morning Post with Deep Learning + Natural Language Processing "
   subtitle:"Digital Humanities - Experiment with method needed for final project"
-  author:"Jasen Lo"
+  author:"bla bla"
   authorLink:"https://colab.research.google.com/drive/1xkpP0azVmy_WdN93q1fDe7VyNRM2dsUN?usp=sharing"
   date:`(new Date()).toDateString()`
   background:"#222222"
